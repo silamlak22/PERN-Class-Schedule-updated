@@ -66,6 +66,7 @@ const App = () => {
                 <ul>
                     <li onClick={() => handlePageChange("Home")}>🏠 Home</li>
                     <li onClick={() => handlePageChange("Chat")}>🏠 Chat</li>
+     // change this icon to chat icon
                     <li onClick={() => handlePageChange("Schedule")}>👤 Schedule</li>
                     <li onClick={() => handlePageChange("Settings")}>⚙️ Settings</li>
                 </ul>
